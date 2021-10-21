@@ -12,8 +12,8 @@ public class Circle {
         double c = 2 * Math.PI * r; 
         double a = Math.PI * r * r; 
 
-        System.out.println( "Circumfernce: " + c ); 
-        System.out. println( "Area: " + a );
+        System.out.println("Circumfernce: " + c); 
+        System.out.println("Area: " + a);
     }
         
     }
